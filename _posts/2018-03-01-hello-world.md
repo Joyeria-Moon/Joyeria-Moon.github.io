@@ -1,15 +1,13 @@
 ---
-title: "Alice in Wonderland, part dos"
-description: "'You ought to be ashamed of yourself for asking such a simple question,' added the Gryphon; and then they both sat silent and looked at poor Alice, who felt ready to sink into the earth. At last the Gryphon said to the Mock Turtle, 'Drive on, old fellow! Don't be all day about it!' and he went on in these words:
-'Yes, we went to school in the sea, though you mayn't believe it—'
-'I never said I didn't!' interrupted Alice.
-'You did,' said the Mock Turtle."
-picture: blog1.jpg
+title: "Collar de perlas"
+description: "Entre los disstintos collares de dama que puedes encontrar con nosotros, presentamos uno de los mejores que tenemos, este lindo coolar de perlas
+amarillo, con la inicial que tu quieras, puedes adquirirla en cualquiera de nuestras tiendas"
+picture: collar-m.jpg
 
-label_default: "alice" 
-label_primary: "story"
-label_success: "blog"
+label_default: "perlas" 
+label_primary: "collar"
+label_success: "dama"
 label_info: "personal"
-label_warning: "warning"
+label_warning: "top"
 label_danger: "danger"
 ---
